@@ -15,4 +15,4 @@ This repository contains all my lab exercises for **CS 224L Web Technologies**.
 ## About Me
 I am a Computer Science student at **University of Engineering & Technology, Peshawar**. This portfolio shows my learning progress in web technologies.
 
-Visit my GitHub Pages site: [Portfolio](https://Mian-Aimal-jan.github.io/your-repository/)
+Visit my GitHub Pages site: [Portfolio](https://sayyafcr7.github.io/lab02/)
